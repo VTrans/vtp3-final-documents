@@ -11,9 +11,11 @@
 - Pavement condition per section over the last 5 years (mile section only)
 - Paving projects over the next 3 years
 
-###Charting
+###Charting:
 
 - Pavement Condition 2013 One Mile
+
+###Other Information:
 
 ###Sustainability:
 	
