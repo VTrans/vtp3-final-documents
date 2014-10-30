@@ -1,17 +1,19 @@
-##Pavement Condition
+#Pavement Condition
 
 User Story:  
 	
-#Map Contents: 
+###Map Contents: 
 	
-Pavement condition 1 mile
-Pavement condition tenth mile
-Pavement condition per section over the last 5 years (mile section only)
-Paving projects over the next 3 years
+- Pavement condition 1 mile
+- Pavement condition tenth mile
+- Pavement condition per section over the last 5 years (mile section only)
+- Paving projects over the next 3 years
 	
-#Sustainability:
+###Sustainability:
 	
-	The AMP will incorporate the required data structure into the annual submittal
-	This Process
-	Reid will incorporate the changes into his process to feed the GIS data.  For the 2014 data Reid 	will attempt to combine the historic data and the current data to reduce the number of features 	(and popups) in the map.
-Future Development:
+- The AMP will incorporate the required data structure into the annual submittal
+- This process will sustainably feed the GIS data being presented through the webmaps
+
+###Future Development:
+- 
+
