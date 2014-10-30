@@ -6,16 +6,17 @@
 
 ###Map Contents: 
 	
-- Pavement condition 1 mile
+- Pavement condition one mile
 - Pavement condition tenth mile
 - Pavement condition per section over the last 5 years (mile section only)
 - Paving projects over the next 3 years
 
 ###Charting:
 
-- Pavement Condition 2013 One Mile
+- Historic Pavement Condition 2008-2013 One Mile
 
 ###Other Information:
+- Color pallette issues?
 
 ###Sustainability:
 	
@@ -23,5 +24,8 @@
 - This process will sustainably feed the GIS data being presented through the webmaps
 
 ###Future Development:
-- Expose county condition reports
+- Wishlist of data field additions
+- Current Deighton task to update and automate sql reporting process
+- Expose sql reporting county condition and highway condition report app
+- Performance measure charting
 
