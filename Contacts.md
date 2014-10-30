@@ -24,3 +24,4 @@
 
 ###Potential Internal Contacts Tool Content:
 - Potentially adding primary contacts for each one of these categories to project location map. [Web Link](http://vtrans.vermont.gov/doing-business)
+- Develope webmap identifying all key VTRANS points of contacts within there designated responsibility region. i.e Contsruction Regional Engineer, DTA, GM, PM, RE, Safety Officer, Hazmat Officer, Enviromental Officer, Emergency Management, Traffic Investigator, Traffic Shop, Utilities, ROW, Permits, DigSafe etc. 
