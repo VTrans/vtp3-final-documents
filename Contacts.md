@@ -23,4 +23,4 @@
 - Develop nightly job to process the data
 
 ###Potential Internal Contacts Tool Content:
--Evan update this
+- The contacts on this webpage, associated with mapped active project locations by contact type. [Web Link](http://vtrans.vermont.gov/doing-business)
