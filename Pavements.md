@@ -1,6 +1,6 @@
 ##Pavement Condition
 
-User Story:
+User Story:  
 	
 Map Contents: 
 Pavement condition 1 mile
