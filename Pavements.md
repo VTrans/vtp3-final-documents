@@ -21,5 +21,5 @@
 - This process will sustainably feed the GIS data being presented through the webmaps
 
 ###Future Development:
-- 
+- Expose county condition reports
 
