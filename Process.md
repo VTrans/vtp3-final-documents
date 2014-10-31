@@ -5,6 +5,9 @@
 **Who owns what we just built? What stops somebody from messing it up Monday?**
 - Filkorn owns it, just like he oversees the CMS. Scott is an advisor.
 - Branch for changes, create a pull request and discuss it before merging
+- How do we avoid the Breakfast Club problem?
+
+#Nothing goes up without approval. Always answer: "What's the user story?"
 
 ##Next time
 
