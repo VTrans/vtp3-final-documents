@@ -84,5 +84,13 @@ Cons
 
 #Method
 
-##"Sprint"
+##Permanent RAD team
 
+Is there any value pulling together a "special ops" team that focuses on one solution until it gets to 80% - "Re-org"
+Who carries it after you're gone?? A lot of things fail because they are critical and they leave
+We change their business process is now changed and defined so that they can sustain
+They train them at the end so they can carry on.
+
+_Sustainability_
+
+How does what we stood up stay standing up? Everything that is built has to sustain itself (with minor maintenance)
