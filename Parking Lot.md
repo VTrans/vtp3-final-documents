@@ -2,7 +2,7 @@
 - Bridges could use some data owner integration
 
 
-#Internal Requests
+###Internal Requests
 - Lots of requests to enhance the map with internal requirements (I need this layer to do ___ too), although not necessarily what the public wants too
 - Lots of requests to augment the public map with internal style data.
 - Will Portal address these issues? Serve as an internal way to DL the data
@@ -28,6 +28,10 @@ Performance Dashboards
 - Migrate AGOL here?
 - Some of the maps that we have are useless, could be opportunity to cull
 - Make an "other" category at the bottom
+- Internal uses - functional class goes where? public doesn't care
+- How does it grow? When Rail goes up?
+- Portal and Sharepoint should house everything internal - should be available within a year
+- How do you provide everybody with what they need in a way that works for them?
 
 Slice the data in other ways
     Pave stats
