@@ -2,6 +2,10 @@
 
 ##Did it work
 
+**Who owns what we just built? What stops somebody from messing it up Monday?**
+- Filkorn owns it, just like he oversees the CMS. Scott is an advisor.
+- Branch for changes, create a pull request and discuss it before merging
+
 ##Next time
 
 - Time frame is project dependent
@@ -93,4 +97,4 @@ They train them at the end so they can carry on.
 
 _Sustainability_
 
-How does what we stood up stay standing up? Everything that is built has to sustain itself (with minor maintenance)
+How does what we stood up stay standing up? Everything that is built has to sustain itself (with minor maintenance).
