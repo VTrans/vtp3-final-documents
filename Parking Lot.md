@@ -4,6 +4,8 @@
 
 #Internal Requests
 - Lots of requests to enhance the map with internal requirements (I need this layer to do ___ too), although not necessarily what the public wants too
+- Lots of requests to augment the public map with internal style data.
+- Will Portal address these issues? Serve as an internal way to DL the data
 
 
 Performance Dashboards
@@ -20,3 +22,4 @@ Contact Form
 Organizational Learning
     Plus Delta
     What can we accomplish in smaller time frames
+
