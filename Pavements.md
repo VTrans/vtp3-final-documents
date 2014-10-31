@@ -28,4 +28,5 @@
 - Current Deighton task to update and automate sql reporting process
 - Expose sql reporting county condition and highway condition report app
 - Performance measure charting
+- work towards the direct link into dTIMS from GIS
 
