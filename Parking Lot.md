@@ -1,4 +1,6 @@
 ###No internal BI tools
+
+- ESRI Operations Dashboards not public facing
 - Charting, dashboards are a necessity
 - Need development support
 - Performance Dashboards
