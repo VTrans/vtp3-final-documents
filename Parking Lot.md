@@ -42,3 +42,5 @@ Organizational Learning
     Plus Delta
     What can we accomplish in smaller time frames
 
+###SeeClickFix
+- Take a look at internal GIS solution for the same problem
