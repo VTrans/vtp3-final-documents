@@ -20,6 +20,7 @@
 ###Sustainability:
 	
 - Project information points back to VPINS views
+- all up to the designers to enter the data
 - Proposed construction start/stop date information is derived from artemis
 - Project Location information - 182 out of 358 (51%) do not have valid locations for mapping
 
