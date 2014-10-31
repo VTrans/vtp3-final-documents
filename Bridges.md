@@ -19,7 +19,8 @@
 
 ###Sustainability:
 	
-- The datasource is a app that has been designed on
+- The datasource is a app that has been designed by williams and fillback
+- all dependent on the PM entering data into the systems
 
 ###Future Development:
 - Bridge closure information should be moved off the CAD server and integrated into the VPINS application
