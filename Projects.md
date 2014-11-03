@@ -1,8 +1,8 @@
-#Upcomming Project 
+#Upcoming Project 
 
 ###User Story:  
 
-"What projects are comming up in my area?"
+"What projects are coming up in my area?"
 
 ###Map Contents: 
 	
